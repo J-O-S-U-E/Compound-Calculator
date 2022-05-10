@@ -21,3 +21,4 @@
 
 ![choice4](https://user-images.githubusercontent.com/86811781/167548515-fe4effbc-fca8-465c-9aa8-46e6a83bcae9.gif)
 
+![choice1](https://user-images.githubusercontent.com/86811781/167557804-114afdc3-0090-49df-874b-ea3152f1c079.gif)
