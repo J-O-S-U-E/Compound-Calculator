@@ -24,3 +24,5 @@
 <p><img alt="gif" src="https://imgur.com/a/CBGteyv"></p>
 
 ![choice4](https://user-images.githubusercontent.com/86811781/167548515-fe4effbc-fca8-465c-9aa8-46e6a83bcae9.gif)
+
+![choice1](https://user-images.githubusercontent.com/86811781/167553885-612f84d3-e256-476b-bcc7-2e684fa5e893.gif)
