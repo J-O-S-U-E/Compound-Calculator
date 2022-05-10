@@ -3,7 +3,7 @@
 
 ## Use Cases
 
-![menu](https://user-images.githubusercontent.com/86811781/167551649-2b17d223-30ce-4a30-9149-2662e6d66903.png)
+![menu](https://user-images.githubusercontent.com/86811781/167557342-83d7b97a-b3b4-466d-8f14-87989b00ce51.png)
 
 ### Choice 1 to Calculate the future balance.
 
