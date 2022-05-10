@@ -22,4 +22,4 @@
 ![choice4](https://user-images.githubusercontent.com/86811781/167548515-fe4effbc-fca8-465c-9aa8-46e6a83bcae9.gif)
 
 
-<img src="https://i.imgur.com/CYy5zI9.mp4">
+<img src="https://i.imgur.com/CYy5zI9">
