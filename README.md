@@ -3,7 +3,7 @@
 
 ## Use Cases
 
-![menu](https://user-images.githubusercontent.com/86811781/167557342-83d7b97a-b3b4-466d-8f14-87989b00ce51.png)
+![menu](https://user-images.githubusercontent.com/86811781/167557743-d4d42194-1d41-4daf-8a9a-79432d1361ab.png)
 
 ### Choice 1 to Calculate the future balance.
 
@@ -20,3 +20,4 @@
 ### Choice 4 to Calculate the expected time frame (in months) with a desired monthly payment amount.
 
 ![choice4](https://user-images.githubusercontent.com/86811781/167548515-fe4effbc-fca8-465c-9aa8-46e6a83bcae9.gif)
+
