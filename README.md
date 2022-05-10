@@ -21,6 +21,6 @@
 
 ### Choice 4 to Calculate the expected time frame (in months) with a desired monthly payment amount.
 
-<code><img alt="gif" src="https://imgur.com/a/CBGteyv"></code>
+<p><img alt="gif" src="https://imgur.com/a/CBGteyv"></p>
 
 ![choice4](https://user-images.githubusercontent.com/86811781/167548515-fe4effbc-fca8-465c-9aa8-46e6a83bcae9.gif)
